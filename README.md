@@ -1,4 +1,4 @@
-# 450 DSA Cracker
+# DSA Cracker
 
 ## Day 1: Reverse the array <br>
 - Problem statement: <br>
