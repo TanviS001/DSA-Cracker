@@ -14,4 +14,3 @@ You are given an array “ARR” of size N. Your task is to find out the sum of 
 - Problem statement
 You are given an array ‘Arr’ consisting of ‘N’ distinct integers and a positive integer ‘K’. Find out Kth smallest and Kth largest element of the array. It is guaranteed that K is not greater than the size of the array.
 ![image](https://github.com/user-attachments/assets/beea4370-580c-447c-b66c-7cb227edf29b)
-
